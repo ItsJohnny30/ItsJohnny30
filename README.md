@@ -16,4 +16,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnywai666&show_icons=true&theme=dark&text_color=17ffff&locale=en" alt="johnnywai666" /></p>
 </br>
 </br>
-![picture](https://media.discordapp.net/attachments/937192198313750568/1034019069092966470/achievement.png)
+[picture](https://media.discordapp.net/attachments/937192198313750568/1034019069092966470/achievement.png)
