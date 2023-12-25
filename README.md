@@ -10,9 +10,9 @@
 
 ## My Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsjohnny30&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="itsjohnny30" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsjohnny30&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="itsjohnny30" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsjohnny30&show_icons=true&locale=en&theme=gruvbox" alt="itsjohnny30" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsjohnny30&show_icons=true&locale=en&theme=synthwave" alt="itsjohnny30" /></p>
 
 ## Contact Me
 > Please go to [My Website](https://itsjohnny30.vercel.app)
