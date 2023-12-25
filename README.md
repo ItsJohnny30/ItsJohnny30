@@ -6,13 +6,13 @@
 
 
 ## Languages and Tools:
-<p align="left"><img src='[https://skillicons.dev/icons?i=html,js,css,discord,express,nodejs,php,py,flask,react,next,tailwind,vscode,nuxt,vue,vite&perline=5](https://skillicons.dev/icons?i=vscode,py,nodejs,js,html,css,php,flask,express,next,react,vite,vue,nuxt,tailwindcss,bootstrap,discord,github,vercel&perline=5)'/></p>
+<p align="left"><img src='https://skillicons.dev/icons?i=vscode,py,nodejs,js,html,css,php,flask,express,next,react,vite,vue,nuxt,tailwindcss,bootstrap,discord,github,vercel&perline=5'/></p>
 
 ## My Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsjohnny30&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="itsjohnny30" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsjohnny30&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="itsjohnny30" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsjohnny30&show_icons=true&locale=en&theme=highcontrast" alt="itsjohnny30" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsjohnny30&show_icons=true&locale=en&theme=gruvbox" alt="itsjohnny30" /></p>
 
 ## Contact Me
 > Please go to [My Website](https://itsjohnny30.vercel.app)
