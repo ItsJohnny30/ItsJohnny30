@@ -10,8 +10,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><img src='https://skillicons.dev/icons?i=html,js,css,discord,express,nodejs,php,py,flask,react,next,tailwind,vscode,nuxt'/></p>
+<p align="left"><img src='https://skillicons.dev/icons?i=html,js,css,discord,express,nodejs,php,py,flask,react,next,tailwind,vscode,nuxt,vue,vite&perline=5'/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsjohnny30&show_icons=true&locale=en&layout=compact" alt="itsjohnny30" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsjohnny30&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="itsjohnny30" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsjohnny30&show_icons=true&locale=en" alt="itsjohnny30" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsjohnny30&show_icons=true&locale=en&theme=highcontrast" alt="itsjohnny30" /></p>
