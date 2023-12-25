@@ -1,14 +1,8 @@
-<div align="center">
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700CC&random=false&width=435&lines=Hi%2C+I'm+ItsJohnny30)](https://itsjohnny30.vercel.app)  
-  
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700CC&random=false&width=435&lines=Hi%2C+I'm+ItsJohnny30)](https://itsjohnny30.vercel.app)
 
 ---
 
-<h3 align="center">A Tiny Developer 💻</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsjohnny30&label=Profile%20views&color=0e75b6&style=flat&theme=gruvbox" alt="itsjohnny30" /> </p>
+<h3>A Tiny Developer 💻</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsjohnny30" alt="itsjohnny30" /></a> </p>
 
