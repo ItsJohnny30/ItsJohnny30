@@ -2,12 +2,10 @@
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsjohnny30" alt="itsjohnny30" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsjohnny30" alt="itsjohnny30" /></a> </p> !-->
 
-<p align="left">
-</p>
 
-### Languages and Tools:
+## Languages and Tools:
 <p align="left"><img src='https://skillicons.dev/icons?i=html,js,css,discord,express,nodejs,php,py,flask,react,next,tailwind,vscode,nuxt,vue,vite&perline=5'/></p>
 
 ## My Stats
