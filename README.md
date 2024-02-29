@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ItsJohnny30
+Hi👋 My name is ItsJohnny30
 ===================================================================================================================================
 
 Frontend and Backend Developer
@@ -6,7 +6,7 @@ Frontend and Backend Developer
 
 * 🌍  I'm based in Malaysia
 * 🖥️  See my portfolio at [My portfolio](http://itsjohnny30.vercel.app)
-* 🚀  I'm currently working on [QXBot](http://qxbot.vercel.app)
+* 🚀  I'm currently working on [MidtimeLab](http://github.com/MidtimeLab)
 
 ### Skills
 
