@@ -5,14 +5,14 @@ Frontend and Backend Developer
 ------------------------------
 
 * 🌍  I'm based in Malaysia
-* 🖥️  See my portfolio at [My portfolio](http://itsjohnny30.vercel.app)
-* 🚀  I'm currently working on [MidtimeLab](http://github.com/MidtimeLab)
+<!--* 🖥️  See my portfolio at [My portfolio](http://itsjohnny30.vercel.app) !-->
+* 🚀  I'm currently working on [WythemStudio](http://github.com/WythemStudio)
 
 ### Skills
 
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,py,nodejs,js,ts,html,css,php,flask,express,next,react,vite,vue,nuxt,tailwindcss,bootstrap,discord,github,vercel,git&perline=5"/>
+<img src="https://skillicons.dev/icons?i=vscode,py,nodejs,js,ts,html,css,php,flask,express,next,react,vite,vue,nuxt,tailwindcss,bootstrap,discord,github,vercel,git&perline=6"/>
 
 
 ### Socials
