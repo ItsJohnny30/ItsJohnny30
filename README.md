@@ -12,7 +12,7 @@ Frontend and Backend Developer
 
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,py,nodejs,js,ts,html,css,php,flask,express,next,react,vite,vue,nuxt,tailwindcss,bootstrap,discord,github,vercel,git,mysql&perline=6"/>
+<img src="https://skillicons.dev/icons?i=vscode,py,nodejs,js,ts,html,css,php,flask,express,next,react,vite,vue,nuxt,tailwindcss,bootstrap,mysql,discord,instagram,github,vercel,git&perline=7"/>
 
 
 ### Socials
