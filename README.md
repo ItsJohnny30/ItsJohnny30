@@ -6,7 +6,7 @@ Frontend and Backend Developer
 
 * 🌍  I'm based in Malaysia
 <!--* 🖥️  See my portfolio at [My portfolio](http://itsjohnny30.vercel.app) !-->
-* 🚀  I'm currently working on [WynicStudio](http://github.com/WynicStudio)
+* 🚀  I'm currently working on [WythemStudio](http://github.com/WythemStudio)
 
 ### Skills
 
